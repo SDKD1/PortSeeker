@@ -7,4 +7,4 @@ Para utilizar o PortSeeker, basta executar o script bash `portseeker.sh` passand
 
 ```bash
 ./portseeker.sh <endereço_IP>
-Por Exemplo: ./portseeker.sh 192.168.0.1
+Exemplo: ./portseeker.sh 192.168.0.1
